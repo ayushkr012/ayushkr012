@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Kumar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Structure and Algorithm  or Web Development
+- 👀 I’m interested in Software Development or Web Development
+- 🌱 I’m currently learning Data Structure and Algorithm  or React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
