@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Ayush Kumar
-- 👀 I’m interested in Software Development or Web Development
-- 🌱 I’m currently learning Data Structure and Algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-
-<!---
-ayushkr012/ayushkr012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Ayush Kumar  
+🚀 Software Developer Intern at Pine Labs  
+👀 Passionate about Software Development & Web Development  
+🌱 Currently honing my skills in Data Structures and Algorithms  
+💡 Always eager to learn and collaborate on exciting projects  
