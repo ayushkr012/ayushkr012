@@ -21,18 +21,21 @@
 
 **Pine Labs — Software Engineer (Full-Time)**  
 *Aug 2025 – Present | Noida*
-
-- Implemented **Secure Payment Confirmation (SPC)** using **WebAuthn/FIDO2** for OTP-less, phishing-resistant authentication.
-- Delivered **EMVCo certification (L1–L3)** enabling international terminal deployments.
-- Dockerized services and built **Jenkins-based CI/CD pipelines**.
+- Spearheading end-to-end EMVCo 3DS 2.3.1 & 2.2.0 certification, executing 9,200+ protocol test cases (7,200+ for
+v2.3.1, 2,000+ for v2.2.0) for global authentication compliance.
+- Debugging high-frequency message flows (AReq/ARes, CReq/CRes) and resolving complex edge-case failures to achieve
+100% production readiness.
+- Architected Secure Payment Confirmation (SPC) using WebAuthn/FIDO2, enabling phishing-resistant, browser-based
+biometric authentication for secure transactions.– Containerized microservices using Docker and automated CI/CD workflows via Jenkins, streamlining zero-downtime
+deployment cycles.
 - **Tech:** Java, Spring Boot, Hibernate, SQL Server, Docker, Jenkins, Redis
 
 **Pine Labs — Software Engineer Intern**  
 *Sep 2024 – Jul 2025*
 
-- Enabled **RuPay certification** via NPCI test environment simulation.
-- Migrated ISO services to **config-driven architecture** (95% onboarding improvement).
-- Built secure CKYC workflows with **PGP encryption & SFTP**.
+- Simulated NPCI test environments, facilitating seamless RuPay certification and integration for domestic payment rails.
+-  Refactored RuPay & NFS ISO 8583 services into config-driven architecture, boosting bank onboarding efficiency by 95%.
+-   Engineered secure CKYC workflows using PGP encryption to manage risk-rating data, implementing automated SFTP operations for PDF retrieval, processing, and lifecycle management.– Maintained 90%+ code coverage by developing robust test suites with JUnit 5 and Mockito for critical payment components.
 
 ---
 
