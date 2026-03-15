@@ -63,7 +63,7 @@ Secure booking system with admin dashboard & alerts.
 ### 🏆 Achievements
 
 - 🌍 Global Rank **35** — VCET CodeThon  
-- ⚔️ **LeetCode Knight (1885)** | **CodeChef 3★**
+- ⚔️ **LeetCode Knight (1930)** | **CodeChef 3★**
 - 🌍 Global Rank **89** — CodeChef Starters (27k+ participants)
 
 ---
