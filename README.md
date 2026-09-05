@@ -19,23 +19,24 @@
 
 ### 🏢 Experience
 
-**Pine Labs — Software Engineer (Full-Time)**  
-*Aug 2025 – Present | Noida*
-- Spearheading end-to-end EMVCo 3DS 2.3.1 & 2.2.0 certification, executing 9,200+ protocol test cases (7,200+ for
-v2.3.1, 2,000+ for v2.2.0) for global authentication compliance.
-- Debugging high-frequency message flows (AReq/ARes, CReq/CRes) and resolving complex edge-case failures to achieve
-100% production readiness.
-- Architected Secure Payment Confirmation (SPC) using WebAuthn/FIDO2, enabling phishing-resistant, browser-based
-biometric authentication for secure transactions.– Containerized microservices using Docker and automated CI/CD workflows via Jenkins, streamlining zero-downtime
-deployment cycles.
-- **Tech:** Java, Spring Boot, Hibernate, SQL Server, Docker, Jenkins, Redis
+#### **Pine Labs — Software Engineer (SDE I)**
 
-**Pine Labs — Software Engineer Intern**  
+*Aug 2025 – Present · Noida*
+
+* 🔐 Developed and certified Pine Labs’ **3D Secure (3DS) Access Control Server (ACS)** for Visa, Mastercard, and EMV 3DS 2.3.1; drove end-to-end **FIME certification**, achieving **100% compliance across 7,200+ scenarios**. Solution is live in production.
+* 🛡️ Engineered **Secure Payment Confirmation (SPC)** using **WebAuthn/FIDO2** for phishing-resistant biometric authentication, eliminating OTP dependency and enabling **PSD2 Strong Customer Authentication (SCA)** compliance.
+* 🏦 Re-architected the **ISO 8583 (jPOS) payment switch server**, which processes ATM/POS transactions routed by NPCI to issuer banks, from a single-bank hardcoded design to a **config-driven, multi-tenant architecture**. New banks can now be onboarded through configuration changes with zero impact on existing banks, reducing onboarding time from **weeks to hours (~95% faster)**.
+* 🐳 Containerized **30+ microservices** using multi-stage Docker builds, reducing image sizes and infrastructure costs; migrated legacy Windows-based JAR deployments to a **Jenkins-based CI/CD pipeline**, enabling reproducible deployments across environments.
+* **Tech:** Java · Spring Boot · Hibernate · SQL Server · Docker · Jenkins · Redis
+
+#### **Pine Labs — Software Engineer Intern**
+
 *Sep 2024 – Jul 2025*
 
-- Simulated NPCI test environments, facilitating seamless RuPay certification and integration for domestic payment rails.
--  Refactored RuPay & NFS ISO 8583 services into config-driven architecture, boosting bank onboarding efficiency by 95%.
--   Engineered secure CKYC workflows using PGP encryption to manage risk-rating data, implementing automated SFTP operations for PDF retrieval, processing, and lifecycle management.– Maintained 90%+ code coverage by developing robust test suites with JUnit 5 and Mockito for critical payment components.
+* 🔒 Implemented **CKYC workflows** with PGP encryption for secure risk-rating data exchange and automated **SFTP-based PDF document lifecycle pipelines**, eliminating manual intervention.
+* 💳 Developed **NPCI test-environment simulations** for RuPay 3DS transaction flow validation, enabling seamless network certification and domestic payment-rail integration.
+* 🧪 Achieved **90%+ unit and integration test coverage** across critical payment components using **JUnit 5 and Mockito**, following TDD practices.
+
 
 ---
 
@@ -62,8 +63,8 @@ Secure booking system with admin dashboard & alerts.
 
 ### 🏆 Achievements
 
-- 🌍 Global Rank **35** — VCET CodeThon  
 - ⚔️ **LeetCode Knight (1930)** | **CodeChef 3★**
+- 🌍 Global Rank **35** — VCET CodeThon  
 - 🌍 Global Rank **89** — CodeChef Starters (27k+ participants)
 
 ---
